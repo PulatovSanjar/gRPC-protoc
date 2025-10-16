@@ -1,6 +1,6 @@
 module github.com/PulatovSanjar/gRPC-protoc
 
-go 1.25.2
+go 1.25
 
 require (
 	google.golang.org/grpc v1.76.0
