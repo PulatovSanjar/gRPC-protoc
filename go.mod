@@ -1,4 +1,4 @@
-module github.com/PulatovSanjar/gRPC-protoc
+module protos
 
 go 1.25.2
 
